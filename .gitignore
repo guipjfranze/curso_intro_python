@@ -8,10 +8,9 @@ __pycache__/
 
 # Text files
 *.csv
-*.txt
 *.xlsx
 *.log
-*.txt
+#*.txt
 
 # Distribution / packaging
 .Python
